@@ -19,6 +19,9 @@ public class CoronaModel {
     public List<CoronaModel.Result> getList_data() {
         return list_data;
     }
+    
+    
+//     About This line
 
     public void setList_data(List<CoronaModel.Result> list_data) {
         this.list_data = list_data;
