@@ -11,6 +11,7 @@ public class CoronaModel {
         return Result;
     }
 
+    
     public void setResult(int result) {
         Result = result;
     }
