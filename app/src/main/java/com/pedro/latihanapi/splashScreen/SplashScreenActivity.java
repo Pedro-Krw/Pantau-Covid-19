@@ -9,6 +9,7 @@ import android.os.Handler;
 import com.pedro.latihanapi.MainActivity;
 import com.pedro.latihanapi.R;
 
+
 public class SplashScreenActivity extends AppCompatActivity {
 
     @Override
